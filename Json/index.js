@@ -32,7 +32,6 @@ function processingInvoice(Jsoninvoice){
         console.log(`- ${productName}: R$ ${productPrice}`)
     } 
     */
-   teste
 
 }
 
