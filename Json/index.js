@@ -33,6 +33,8 @@ function processingInvoice(Jsoninvoice){
     } 
     */
 
+    console.log("teste augusto")
+
 }
 
 //chamando a função com base no Json
